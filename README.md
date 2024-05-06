@@ -1,4 +1,4 @@
-# Book Management System API
+# Postgres & Golang CRUD API
 
 This repository contains a simple RESTful API. It uses Go for the backend with Gorilla Mux for routing, GORM for database interactions, and MySQL for data storage.
 
@@ -9,7 +9,6 @@ This repository contains a simple RESTful API. It uses Go for the backend with G
 -   [Getting Started](#getting-started)
     -   [Setting Up the Environment](#setting-up-the-environment)
     -   [Running the API](#running-the-api)
--   [License](#license)
 
 ## Routes
 
